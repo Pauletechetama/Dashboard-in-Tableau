@@ -10,4 +10,4 @@ Logged into my Tableau profile, created a viz and uploaded the World bank co2 da
 
 # Summary
 This project was solely about creating dashboards. The dashboard-style format presents data in an accessible and interactive way which enables easy communication of ones works and display dynamic data in professional setting. Dashboards put all the pertinent information in the same place,making it easier to understand the important takeaways. From the link below you can view the data visualization.
-# https://public.tableau.com/app/profile/paulet.echetama
+# https://public.tableau.com/views/dashboard_16965152138360/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
